@@ -20,9 +20,9 @@ WPILib is an open-source library - the entirety of the library source code is in
 
 While users are strongly encouraged to read the source code to resolve detailed questions about library functionality, more-concise documentation can be found on the official documentation pages for WPILibJ and WPILibC:
 
- - [Java documentation](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/)
+ - [Java documentation](https://javadocs.wpilib.org)
 
- - [C++ documentation](https://first.wpi.edu/wpilib/allwpilib/docs/release/cpp/)
+ - [C++ documentation](https://cppdocs.wpilib.org)
 
 ## Installation
 
