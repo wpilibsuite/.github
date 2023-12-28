@@ -26,7 +26,7 @@ While users are strongly encouraged to read the source code to resolve detailed 
 
  - [C++ documentation](https://first.wpi.edu/wpilib/allwpilib/docs/release/cpp/)
 
- - [Python documentation](https://robotpy.readthedocs.io/projects/wpilib/en/stable/api.html)
+ - [Python documentation](https://robotpy.readthedocs.io/projects/robotpy/en/latest/)
 
 ## Installation
 
