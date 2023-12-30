@@ -22,9 +22,9 @@ WPILib is an open-source library - the C++ and Java source code is in the [allwp
 
 While users are strongly encouraged to read the source code to resolve detailed questions about library functionality, more-concise documentation can be found on the official documentation pages for WPILibJ and WPILibC and RobotPy:
 
- - [Java documentation](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/)
+ - [Java documentation](https://javadocs.wpilib.org)
 
- - [C++ documentation](https://first.wpi.edu/wpilib/allwpilib/docs/release/cpp/)
+ - [C++ documentation](https://cppdocs.wpilib.org)
 
  - [Python documentation](https://robotpy.readthedocs.io/projects/robotpy/en/latest/)
 
