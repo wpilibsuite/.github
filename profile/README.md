@@ -14,7 +14,7 @@ The primary documentation for WPILib is the [FIRST Robotics Competition Control 
 
 WPILib is an open-source library - the C++ and Java source code is in the [allwpilib](https://github.com/wpilibsuite/allwpilib) mono-repo and python source code is in the [mostrobotpy](https://github.com/robotpy/mostrobotpy) mono-repo.  The Java and C++ source code can be found in the WPILibJ and WPILibC source directories:
 
- - [Java source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibj/src/main/java/edu/wpi/first/wpilibj)
+ - [Java source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibj/src/main/java/org/wpilib)
 
  - [C++ source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp)
 
