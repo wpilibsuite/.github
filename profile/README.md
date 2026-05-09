@@ -18,7 +18,7 @@ Detailed API documentation can be found on the official documentation pages for 
 
  - [C++ documentation](https://cppdocs.wpilib.org)
 
- - [Python documentation](https://robotpy.readthedocs.io/projects/robotpy/en/latest/)
+ - [Python documentation](https://robotpy.readthedocs.io/projects/robotpy/en/stable/)
 
 WPILib is an open-source library - the majority of the library source code is in the [allwpilib](https://github.com/wpilibsuite/allwpilib) mono-repo.   Python source code is in the [mostrobotpy](https://github.com/robotpy/mostrobotpy) mono-repo.  Various other tooling and infrastructure code is in other repositories under the [wpilibsuite](https://github.com/wpilibsuite) organization on GitHub.
 
